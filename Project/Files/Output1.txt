@@ -1,0 +1,21 @@
+CDT	ID	PT	WT	TID
+1:16	8	1:1	0:11	2
+1:17	7	1:1	0:11	2
+1:17	2	1:1	0:11	4
+1:20	4	1:1	0:11	4
+1:21	10	1:1	0:17	1
+1:22	9	1:1	0:17	1
+1:23	6	1:1	0:11	2
+2:4	11	1:1	0:17	1
+2:10	15	1:1	1:6	2
+2:12	14	1:1	1:9	4
+2:15	13	1:1	1:9	4
+2:16	12	1:1	1:9	4
+====================================================================== 
+Total Cargos : 15 | Normal = 15, Special = 0, VIP = 0 | 
+Average Waiting Time : 0:15
+Auto Promoted Cargos : 6.666667
+Total Trucks : 4 | Normal = 2, Special = 1 , Vip = 1| 
+Average Active Time = 17
+Average Utilisation = 20.119048
+
